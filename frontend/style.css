@@ -102,7 +102,19 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   .slicknav_menu {
+        display:none;
+    }
 
+@media screen and (max-width: 40em) {
+    .js #menu {
+        display:none;
+    }
+    
+    .js .slicknav_menu {
+        display:block;
+    }
+}
 
 
 
@@ -290,6 +302,8 @@ textarea {
     h3 {
         page-break-after: avoid;
     }
+
+    
 }
 
 
