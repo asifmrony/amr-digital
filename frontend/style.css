@@ -117,6 +117,132 @@ textarea {
 }
 
 
+* {
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.logo, .navbar, .section-heading {
+    font-family: 'Oswald', sans-serif;
+}
+
+.post-heading, .slider-heading, .slider-subheading, .service-heading{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.testimonial p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.middler {
+    width: 960px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+
+.fix {
+    overflow: hidden;
+}
+
+.floatleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.header-container {
+}
+
+.logo {
+}
+
+.navbar {
+}
+
+.slider-area {
+}
+
+.slider-container {
+}
+
+.service-area {
+}
+
+.service-container {
+}
+
+.service-list {
+}
+
+.single-serive {
+}
+
+.latest-work {
+}
+
+.lat-work-container {
+}
+
+.col-3.single-work {
+}
+
+.work-subheading {
+}
+
+.work-texts {
+}
+
+.testimonial {
+}
+
+.testimonial-container {
+}
+
+.fas.fa-quote-left {
+}
+
+.footer-top {
+}
+
+.footer-top-container {
+}
+
+.col-4.single-footer-top {
+}
+
+.fas.fa-map-marker-alt {
+}
+
+.fas.fa-mobile-alt {
+}
+
+.fas.fa-envelope {
+}
+
+.fas.fa-location-arrow {
+}
+
+.footer-container {
+}
+
+.fas.fa-heart {
+}
+
+
 
 
 
